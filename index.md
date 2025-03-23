@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 # 🌍 私のウェブサイトへようこそ！
 
 こんにちは！これは私の GitHub Pages で作ったウェブサイトです。  
